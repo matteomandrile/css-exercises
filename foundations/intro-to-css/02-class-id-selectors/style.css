@@ -3,7 +3,7 @@
     font-family: Verdana, sans-serif ;
 }
 
-.uneven.cooler {
+.bigger {
     font-size: 24px;
 }
 
@@ -14,6 +14,5 @@
 
 #two {
     background-color: rgb(175, 226, 65);
-    font-size: 24px;
     font-weight: bold;
 }
