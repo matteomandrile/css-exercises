@@ -1,0 +1,19 @@
+.uneven {
+    background-color: rgb(251, 183, 183);
+    font-family: Verdana, sans-serif ;
+}
+
+.uneven.cooler {
+    font-size: 24px;
+}
+
+#one {
+    color: rgb(29, 121, 219);
+    font-size: 36px;
+}
+
+#two {
+    background-color: rgb(175, 226, 65);
+    font-size: 24px;
+    font-weight: bold;
+}
